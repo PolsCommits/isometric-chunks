@@ -6,6 +6,9 @@ __pycache__/
 # Resources folder
 Resources/
 
+# Pycharm folder
+.idea/
+
 # C extensions
 *.so
 
