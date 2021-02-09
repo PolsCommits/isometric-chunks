@@ -7,6 +7,6 @@ pygame based chunk generator using Simplex noise generation
 * e - save image
 
 # Download:
-Available under 'Releases'
+Available [here](https://github.com/PolsCommits/isometric-chunks/releases/download/v0.1.0/PyChunks.7z)
 
 ![Chunk Preview](https://github.com/PolsCommits/isometric-chunks/blob/main/chunk0.png)
