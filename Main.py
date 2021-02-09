@@ -60,7 +60,7 @@ while running:
                     for chunks_x in range(0, map_width):
                         chunks_offset_x -= chunks_x * 16 * 48
 
-                        print(chunks_offset_x, chunks_offset_y)
+                        #print(chunks_offset_x, chunks_offset_y)
 
                         for x in range(0, chunks[chunks_x][chunks_y].size[0]):
 
@@ -97,7 +97,7 @@ while running:
                     for chunks_x in range(0, map_width):
                         chunks_offset_x += chunks_x * 16 * 48
 
-                        print(chunks_offset_x, chunks_offset_y)
+                        #print(chunks_offset_x, chunks_offset_y)
 
                         for x in range(0, chunks[chunks_x][chunks_y].size[0]):
 
